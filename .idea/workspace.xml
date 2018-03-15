@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05db807b-7751-472a-9091-72b01bc6452c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mongo_java_driver_2_12_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MongoDb.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/MongoDb/com/journaldev/mongodb/main/MongoDBExample.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/MongoDb/com/journaldev/mongodb/model/User.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/journaldev/mongodb/main/MongoDBExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/journaldev/mongodb/model/User.java" />
-    </list>
+    <list default="true" id="05db807b-7751-472a-9091-72b01bc6452c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
